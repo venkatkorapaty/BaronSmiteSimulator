@@ -27,7 +27,7 @@ public class BaronSmiteSimulator extends JFrame implements Runnable{
    //This is needed to import the picture I use for the background of my program
     private Image dbImage;
     private Graphics dbg;
-    Image img = Toolkit.getDefaultToolkit().createImage("D:\\eclips workspace\\BaronSmiteSimulator\\Baron nasoor.jpg");
+    Image img = Toolkit.getDefaultToolkit().createImage("D:\\eclips workspace\\BaronSmiteSimulator\\Baronnasoor.jpg");
    
     int rectX, rectY;
     /**
